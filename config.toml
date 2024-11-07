@@ -1,0 +1,4 @@
+baseURL = "https://deine-website-url.netlify.app/"
+languageCode = "de-de"
+title = "HTM Heizungstechnik GmbH"
+theme = "ananke"  # Das ist das Hugo-Theme, das wir verwenden
